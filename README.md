@@ -1,4 +1,4 @@
 # Inverted-pendulum-convex-optimization
 
-https://github.com/user-attachments/assets/1a02b553-4a15-49e5-b567-26cddf932ae2
+https://github.com/user-attachments/assets/82f9fd06-9f1c-403a-8da5-5df2eebf5148
 
